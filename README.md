@@ -1,8 +1,8 @@
-# Musixon
+# Musicly
 
 ## To run project locally:
-1. Create a folder musixon
-2. Run ```git clone https://github.com/overlord-ak/musixon.git```
+1. Create a folder musicly
+2. Run ```git clone https://github.com/Abhishekguptta/MUSICLY.git```
 
 ## To run frontend:
 1. Install dependencies: ```npm install```
